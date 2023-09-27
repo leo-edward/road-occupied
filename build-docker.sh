@@ -1,0 +1,1 @@
+docker build -t zhentian/road-occupied:v1.0 .

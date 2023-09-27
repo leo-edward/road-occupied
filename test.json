@@ -1,0 +1,18 @@
+{
+    "algorithm_params":{
+        "test1": 123,
+        "test2": 456,
+        "test3": 789,
+        "triton_url": "192.168.113.57:430740"
+    },
+    "algorithm": "road_occupied",
+    "consumer_topic": "algo_input_face_101",
+    "producer_topic": "algo_output_face_120",
+    "pulsar_address": "pulsar://192.168.113.43:6650",
+    "log": {
+        "log_path": "./log",
+        "log_file": "road_occupied-algo_input_road_101_client",
+        "log_rotation": "1 week",
+        "log_retention": "3 week"
+    }
+}

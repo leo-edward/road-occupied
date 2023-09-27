@@ -1,0 +1,14 @@
+tqdm
+scipy
+minio
+flask
+loguru
+gevent
+pillow
+onnxsim
+gunicorn
+matplotlib
+opencv-python
+pycocotools
+tritonclient[all]
+pulsar-client==2.10.2

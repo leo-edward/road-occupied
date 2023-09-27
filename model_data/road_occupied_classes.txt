@@ -1,0 +1,5 @@
+awning
+cart_stall
+fixed_stall
+move_stall
+umbrella
